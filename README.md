@@ -16,5 +16,3 @@
 ## ¿Cómo correr el programa ?
 El programa está construido en modulos, el archivo app.py es el que se debe ejecutar, este "reune" los demás modulos y los ejecuta en el orden correcto, por esto, TODOS LOS ARCHIVOS deben estar en la misma carpeta, de lo contrario te lanzará una alerta indicando que no se encuentra algún modulo
 
-## ¿Por qué no tiene estructura este archivo?
-Lo estoy escribiendo rápido ya que tengo muy poca capacidad de gestión de mi itempo y pronto se cierra la paltaforma aún cuando acabé hace días el programa...
