@@ -1,3 +1,5 @@
+# Software realizado com otarea para identificación de ecuaciones dif. lineales 
+## Desarrollado en Python
 ## Para de variables separables o cambio de variable, usar la siguiente sintaxis: y' = ECUACIÓNFELIZ
 ## Para Beronulli, Linnear Differential Equation, Exact y Traslación se puede usar las siguientes sintaxis:
 - ALGO = y' F(x)y
